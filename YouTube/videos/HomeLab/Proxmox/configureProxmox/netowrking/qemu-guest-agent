@@ -1,0 +1,5 @@
+What is QEMU guest agent?
+
+https://pve.proxmox.com/wiki/Qemu-guest-agent
+
+Lets you monitor the IP and network of a vm from the proxmox dashboard.
