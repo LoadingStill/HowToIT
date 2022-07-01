@@ -1,0 +1,6 @@
+How to set up vlans in Proxmox.
+
+1) Vlan on the VM level not Proxmox
+
+
+2) vlan on Proxmox for the vm not in the VM Level
